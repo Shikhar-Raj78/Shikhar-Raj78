@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Shikhar Raj. I am pursuing B.Tech in Computer Science and Artificial Intelligence at Indian Institute of Information Technology, Lucknow. I am very interested in Web Development. I am proficient in react js, node js, sql, javascript. I am working on improving my web development skills by learning new frameworks.
+I'm Shikhar Raj, currently pursuing a B.Tech in Computer Science and Artificial Intelligence at the Indian Institute of Information Technology, Lucknow. I have a strong interest in Web Development and Machine Learning. I am proficient in technologies like React.js, Node.js, SQL, JavaScript, TensorFlow, Python, PyTorch, and OpenCV.
 
 ## 🤝 Reach out to Me
 
@@ -41,6 +41,12 @@ I'm Shikhar Raj. I am pursuing B.Tech in Computer Science and Artificial Intelli
 ### Frameworks, Libraries & Tools
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
+    <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
+    <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow">
+    <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV">
+    <img src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
+    <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
+    <img src="https://img.shields.io/badge/-Matplotlib-0C478F?style=flat-square&logo=matplotlib&logoColor=white" alt="Matplotlib">
     <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
     <img src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux">
     <img src="https://img.shields.io/badge/-React%20Router-CA4245?style=flat-square&logo=react-router&logoColor=white" alt="React Router">
