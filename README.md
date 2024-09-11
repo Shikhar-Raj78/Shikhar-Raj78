@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Shikhar Raj. I am pursuing B.Tech in Computer Science and Artificial Intelligence at Indian Institute of Information Technology, Lucknow. I am very interested in Web Development. I am proficient in react js, node js, sql, javascript. I am working on improving my web development skills by learning new frameworks. Apart from web development, I have interest in machine learning and have started to learn it.
+I'm Shikhar Raj. I am pursuing B.Tech in Computer Science and Artificial Intelligence at Indian Institute of Information Technology, Lucknow. I am very interested in Web Development. I am proficient in react js, node js, sql, javascript. I am working on improving my web development skills by learning new frameworks.
 
 ## 🤝 Reach out to Me
 
